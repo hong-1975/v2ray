@@ -20,14 +20,14 @@ wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/hong
 
 
 ## bash命令安装v2ray脚本
-[V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
+[V2Ray 一键安装脚本](https://github.com/hong-1975/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
 
 https://raw.githubusercontent.com/hong-1975/v2ray/master/install.sh
 
 bash <(curl -s -L https://raw.githubusercontent.com/hong-1975/v2ray/master/install.sh)
 
 ## 搭建教程
-[V2Ray搭建详细图文教程](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
+[V2Ray搭建详细图文教程](https://github.com/hong-1975y/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
 ## 资助 V2Ray
 请考虑 [资助 V2Ray 发展](https://www.v2ray.com/chapter_00/02_donate.html)
