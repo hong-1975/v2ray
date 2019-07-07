@@ -10,9 +10,14 @@ centos : sudo yum -y install wget
 
 ## wegt命令安装v2ray安装脚本
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/hong-1975/v2ray/master/install.sh
+
 chmod +x install.sh
 
-wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/hong-1975/v2ray/master/install.sh && chmod +x install.sh
+./install.sh
+
+
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/hong-1975/v2ray/master/install.sh && chmod +x install.sh && ./install.sh
+
 
 ## bash命令安装v2ray脚本
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
