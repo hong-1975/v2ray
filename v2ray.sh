@@ -2327,13 +2327,13 @@ install_bbr() {
 }
 install_lotserver() {
 	# https://moeclub.org/2017/03/08/14/
-	wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh"
+	wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/hong-1975/serverSpeeder_Install/master/appex.sh"
 	bash /tmp/appex.sh 'install'
 	rm -rf /tmp/appex.sh
 }
 uninstall_lotserver() {
 	# https://moeclub.org/2017/03/08/14/
-	wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh"
+	wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/hong-1975/serverSpeeder_Install/master/appex.sh"
 	bash /tmp/appex.sh 'uninstall'
 	rm -rf /tmp/appex.sh
 }
