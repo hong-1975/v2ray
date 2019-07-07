@@ -2322,7 +2322,7 @@ install_bbr() {
 	else
 		_load bbr.sh
 		_try_enable_bbr
-		[[ ! $enable_bbr ]] && bash <(curl -s -L https://github.com/teddysun/across/raw/master/bbr.sh)
+		[[ ! $enable_bbr ]] && bash <(curl -s -L https://github.com/hong-1975/across/raw/master/bbr.sh)
 	fi
 }
 install_lotserver() {
